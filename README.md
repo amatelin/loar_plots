@@ -1,5 +1,5 @@
-Article on the Law of Accelerating Returns - LOAR
-=================================================
-Scripts involved in making the plots
+The law of accelerating returns - LOAR
 -----------------------------------
-Plots made with [plot.ly](https://plot.ly)
+Plot scripts
+
+Made with [plot.ly](https://plot.ly)
