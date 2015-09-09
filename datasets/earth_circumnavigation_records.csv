@@ -1,0 +1,25 @@
+source,name,ship_name,detail,full_duration,duration,start_date,start_year,end_date,end_year,category,comment
+https://en.wikipedia.org/wiki/Sebastian_Elcano,Sebastian Elcano,Victoria,Sebastian Elcano and crew,2 years 352 days,1082,20 September 1519,1519,6 September 1522,1522,naval,
+https://en.wikipedia.org/wiki/Francis_Drake,Francis Drake,Golden Hind,Francis Drake and crew,2 years 288 days,1018,13 December 1577,1577,26 September 1580,1580,naval,
+https://en.wikipedia.org/wiki/Thomas_Cavendish,Thomas Cavendish,Desire,Thomas Cavendish and crew,2 years 51 days,781,21 July 1586,1586,9 September 1588,1588,naval,
+https://en.wikipedia.org/wiki/Willem_Schouten; https://en.wikipedia.org/wiki/Jacob_Le_Maire,Willem Schouten; Jacob Le Maire,Eendraght,Crew of the Eendracht (originally led by Willem Schouten and Jacob Le Maire),2 years 18 days,748,14 June 1615,1615,1 July 1617,1617,naval,
+https://en.wikipedia.org/wiki/John_Byron,John Byron,HMS Dolphin,John Byron and crew,1 year 311 days,676,2 July 1764,1764,9 May 1766,1766,naval,
+https://en.wikipedia.org/wiki/George_Simpson_(administrator),George Simpson,,George Simpson,1 year 240 days,605,March 1841,1841,October 1842,1842,terrestrial,
+https://en.wikipedia.org/wiki/Nellie_Bly,Nellie Bly,Public transportation,Nellie Bly,72 days,72,14 November 1889,1889,25 January 1890,1890,naval/terrestrial,"Multiple means of transport, inspired by"
+https://en.wikipedia.org/wiki/George_Francis_Train,George Francis Train,,George Francis Train,67 days,67,,1890,,1890,naval/terrestrial,
+http://www.wingnet.org/rtw/RTW001.HTM,George Francis Train,,,60 days,60,,1892,,1892,naval/terrestrial,
+http://www.wingnet.org/rtw/RTW001.HTM,J. Willis Sayre,,,54 days,54,,1903,,1903,naval/terrestrial,Sayre sets Round-the-World record using only public transportation.
+https://en.wikipedia.org/wiki/John_Henry_Mears,John Henry Mears,,"Andre Jaeger-Schmidt, Henry Frederick, John Henry Mears",36 days,36,2 July 1913,1913,6 August 1913,1913,naval/terrestrial,"A combination of steamers, yachts, and trains"
+http://www.wingnet.org/rtw/RTW001.HTM,Edward S.Evans,,"Linton O.Wells, passenger & Edward S.Evans, pilot",28 days,28,16 June 1926,1926,29 November 1926,1926,naval/terrestrial/aerial,
+https://en.wikipedia.org/wiki/John_Henry_Mears,John Henry Mears,,John Henry Mears,23 days 15 hours 21 minutes and 3 seconds,23.625,1928,1928,1928,1928,naval/aerial,
+https://en.wikipedia.org/wiki/Hugo_Eckener,Hugo Eckener,LZ127 Graf Zeppelin,Hugo Eckener,21 days 5 hours 31 minutes,21.21,,1929,,1929,aerial,"First circumnavigation in an airship, aboard LZ127 Graf Zeppelin"
+,Pilot Wiley Post and navigator Harold Gatty,Lockheed Vega,,8 days 15 hours 51 minutes,8.625,23 June 1931,1931,1 July 1931,1931,aerial,Lockheed Vega aeroplane
+https://en.wikipedia.org/wiki/Wiley_Post#Around_the_World,Wiley Post,Lockheed Vega w/ autopilot and radio direction finder,,7 days 19 hours 49 minutes,7.79,,1933,22 July 1933,1933,aerial,Using an autopilot and radio direction finder
+,United States Air Force,B-50 Superfortress Lucky Lady II,,94 hours 1 minute,3.9,1949,1949,1949,1949,aerial,"B-50 Superfortress Lucky Lady II. Four in-air refuelings were required for the flight, which covered 37,743 kilometres (23,452 mi)."
+https://en.wikipedia.org/wiki/Vostok_1#Time_in_orbit,Yuri Gagarin,Vostok 1,Yuri Gagarin,68 minutes,0.0472,12 April 1961,1961,12 April 1961,1961,spacial,Vostok 1
+http://www.wingnet.org/rtw/RTW007.HTM,Brooke Knapp,Learjet-35,"Brooke Knapp with co-pilots, James Topalian and Paul Broyles",50 hours 22 minutes 42 seconds,2.847,16 February 1983,1983,18 February 1983,1983,aerial,Learjet-35
+http://www.wingnet.org/rtw/RTW007.HTM,Brooke Knapp,Gulfstream III,"Brooke Knapp with co-pilots, Bob Smyth, Paul Broyles and Curt Olds ",45 hours 32 minutes 53 seconds,1.897,13 February 1984,1984,15 February 1984,1984,aerial,Gulfstream III
+https://en.wikipedia.org/wiki/Mir,International cooperation,Mir space station,,1 hours 31 minutes 54 seconds,0.063,,1986,,,spacial,
+http://www.wingnet.org/rtw/RTW007.HTM,Clay Lacy,Boeing 747SP,,36 hours 54 minutes 15 seconds,1.537,28 January 1988,1988,30 January 1988,1988,aerial,Boeing 747SP
+,Air France,Concorde,,32 hours 49 minutes 3 seconds,1.3,1992,1992,1992,1992,aerial,Concorde
+https://en.wikipedia.org/wiki/International_Space_Station,International cooperation,International space station,,1 hour 32 minutes 69 seconds,0.064,,1998,,,spacial,

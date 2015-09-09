@@ -1,0 +1,119 @@
+Z,Element,Discoverer,Discovery,Group
+29,Copper,Middle East,-9000,1
+82,Lead,Near East,-7000,1
+79,Gold,Bulgaria,-6000,1
+47,Silver,,-5000,1
+26,Iron,,-5000,1
+6,Carbon,Egyptians and Sumerians,-3750,1
+50,Tin,,-3500,1
+16,Sulfur,Chinese/Indians,-2000,1
+80,Mercury,Chinese/Indians,-2000,1
+30,Zinc,Indian metallurgists,-1000,1
+51,Antimony,,-3000,1
+33,Arsenic,A. Magnus,1250,2
+15,Phosphorus,H. Brand,1669,2
+27,Cobalt,G. Brandt,1732,2
+78,Platinum,A. de Ulloa,1735,2
+28,Nickel,F. Cronstedt,1751,2
+83,Bismuth,C.F. Geoffroy,1753,2
+12,Magnesium,J. Black,1755,2
+1,Hydrogen,H. Cavendish,1766,2
+8,Oxygen,W. Scheele,1771,2
+7,Nitrogen,D. Rutherford,1772,2
+17,Chlorine,W. Scheele,1774,2
+25,Manganese,W. Scheele,1774,2
+56,Barium,W. Scheele,1772,2
+42,Molybdenum,W. Scheele,1778,2
+52,Tellurium,F.-J.M. von Reichenstein,1782,2
+74,Tungsten,T. Bergman,1781,2
+38,Strontium,W. Cruikshank,1787,2
+40,Zirconium,H. Klaproth,1789,2
+92,Uranium,H. Klaproth,1789,2
+22,Titanium,W. Gregor,1791,2
+39,Yttrium,J. Gadolin,1794,2
+24,Chromium,N. Vauquelin,1797,2
+4,Beryllium,N. Vauquelin,1798,2
+23,Vanadium,M. del Río,1801,2
+41,Niobium,C. Hatchett,1801,2
+73,Tantalum,G. Ekeberg,1802,2
+46,Palladium,H. Wollaston,1803,2
+58,Cerium,"H. Klaproth,W. Hisinger",1803,2
+76,Osmium,S. Tennant,1803,2
+77,Iridium,S. Tennant,1803,2
+45,Rhodium,H. Wollaston,1804,2
+19,Potassium,H. Davy,1807,2
+11,Sodium,H. Davy,1807,2
+20,Calcium,H. Davy,1808,2
+5,Boron,"L. Gay-Lussac,L.J. Thénard",1808,2
+9,Fluorine,A.-M. Ampère,1810,2
+53,Iodine,B. Courtois,1811,2
+3,Lithium,A. Arfwedson,1817,2
+48,Cadmium,"S. L Hermann,F. Stromeyer",1817,2
+34,Selenium,"J. Berzelius,G. Gahn",1817,2
+14,Silicon,J. Berzelius,1824,2
+13,Aluminium,H.C.Ørsted,1825,2
+35,Bromine,"J. Balard,L. Gmelin",1825,2
+90,Thorium,J. Berzelius,1829,2
+57,Lanthanum,G. Mosander,1838,2
+68,Erbium,G. Mosander,1842,2
+65,Terbium,G. Mosander,1842,2
+44,Ruthenium,K. Claus,1844,2
+55,Caesium,"R. Bunsen,R. Kirchhoff",1860,2
+37,Rubidium,,1861,2
+81,Thallium,W. Crookes,1861,2
+49,Indium,"F. Reich,T. Richter",1863,2
+2,Helium,"P. Janssen,N. Lockyer",1868,2
+31,Gallium,P. E. L. de Boisbaudran,1875,2
+70,Ytterbium,J.C.G. de Marignac,1878,2
+67,Holmium,M. Delafontaine,1878,2
+69,Thulium,T. Cleve,1879,2
+21,Scandium,F. Nilson,1879,2
+62,Samarium,,1879,2
+64,Gadolinium,,1880,2
+59,Praseodymium,A. von Welsbach,1885,2
+60,Neodymium,,1885,2
+66,Dysprosium,,1886,2
+32,Germanium,A. Winkler,1886,2
+18,Argon,"Lord Rayleigh,W. Ramsay",1894,2
+36,Krypton,W. Travers,1898,2
+10,Neon,,1898,2
+54,Xenon,,1898,2
+84,Polonium,"P.,M. Curie",1898,2
+88,Radium,,1898,2
+86,Radon,E. Dorn,1898,2
+89,Actinium,A.-L. Debierne,1899,2
+63,Europium,E.-A. Demarçay,1896,2
+71,Lutetium,"G. Urbain,C.A. von Welsbach",1906,2
+75,Rhenium,M. Ogawa,1908,2
+72,Hafnium,"G. Urbain,V. Vernadsky",1911,2
+91,Protactinium,"O.H.Göhring,K. Fajans",1913,2
+43,Technetium,"C. Perrier,E. Segrè",1937,2
+87,Francium,M. Perey,1939,2
+85,Astatine,"R. Corson,R. MacKenzie,E. Segrè",1940,2
+93,Neptunium,"E.M. McMillan,H. Abelson",1940,2
+94,Plutonium,"Glenn T. Seaborg,Arthur C. Wahl,W. Kennedy",1941,2
+95,Americium,"A. James,O. Morgan,A. Ghiorso",1944,2
+96,Curium,,1944,2
+61,Promethium,"S. Wu,E.G. Segrè,A. Bethe",1942,2
+97,Berkelium,G. Thompson,1949,2
+98,Californium,"K. Street,Jr.",1950,2
+99,Einsteinium,,1952,2
+100,Fermium,,1952,2
+101,Mendelevium,"G. Harvey,R. Choppin",1955,2
+102,Nobelium,"T. Sikkeland,R. Walton",1958,2
+103,Lawrencium,"E. Larsh,M. Latimer",1961,2
+104,Rutherfordium,"M. Nurmia,J. Harris,K. Eskola,P. Eskola",1968,2
+105,Dubnium,,1970,2
+106,Seaborgium,"J. Nitschke,J. Alonso,C. Alonso,K. Hulet,W. Lougheed",1974,2
+107,Bohrium,G.Münzenberg,1981,2
+109,Meitnerium,P. Armbruster,1982,2
+108,Hassium,,1984,2
+110,Darmstadtium,S. Hofmann,1994,2
+111,Roentgenium,,1994,2
+112,Copernicium,,1996,2
+114,Flerovium,Y. Oganessian,1999,2
+116,Livermorium,,2000,2
+118,Ununoctium,,2002,3
+113,Ununtrium,Alpha decay,2003,3
+115,Ununpentium,,2003,3
+117,Ununseptium,,2010,3

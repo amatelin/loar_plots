@@ -21,7 +21,7 @@ def make_description(entry):
     
     
 # Importing data in panda and preparing plot args
-path = "C:/Users/amate_000/Google Drive/Projects/LOAR/earth_circumnavigation.csv"
+path = "C:/Users/amate_000/Google Drive/Projects/LOAR/loar_plots/earth_circumnavigation_records.csv"
 data_df = pd.read_csv(path, sep=",")
 
 categories = data_df["category"].unique()
