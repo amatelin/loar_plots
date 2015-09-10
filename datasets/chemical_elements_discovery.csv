@@ -59,7 +59,7 @@ Z,Element,Discoverer,Discovery,Group
 65,Terbium,G. Mosander,1842,2
 44,Ruthenium,K. Claus,1844,2
 55,Caesium,"R. Bunsen,R. Kirchhoff",1860,2
-37,Rubidium,,1861,2
+37,Rubidium,R. Bunsen and G. R. Kirchhoff,1861,2
 81,Thallium,W. Crookes,1861,2
 49,Indium,"F. Reich,T. Richter",1863,2
 2,Helium,"P. Janssen,N. Lockyer",1868,2
@@ -68,18 +68,18 @@ Z,Element,Discoverer,Discovery,Group
 67,Holmium,M. Delafontaine,1878,2
 69,Thulium,T. Cleve,1879,2
 21,Scandium,F. Nilson,1879,2
-62,Samarium,,1879,2
-64,Gadolinium,,1880,2
+62,Samarium,P.E.L. de Boisbaudran,1879,2
+64,Gadolinium,J. C. G. de Marignac,1880,2
 59,Praseodymium,A. von Welsbach,1885,2
-60,Neodymium,,1885,2
-66,Dysprosium,,1886,2
+60,Neodymium,A. von Welsbach,1885,2
+66,Dysprosium,P.E.L. de Boisbaudran,1886,2
 32,Germanium,A. Winkler,1886,2
 18,Argon,"Lord Rayleigh,W. Ramsay",1894,2
-36,Krypton,W. Travers,1898,2
-10,Neon,,1898,2
-54,Xenon,,1898,2
-84,Polonium,"P.,M. Curie",1898,2
-88,Radium,,1898,2
+36,Krypton,W. Ramsay and W. Travers,1898,2
+10,Neon,W. Ramsay and W. Travers,1898,2
+54,Xenon,W. Ramsay and W. Travers,1898,2
+84,Polonium,P. and M. Curie,1898,2
+88,Radium,P. and M. Curie,1898,2
 86,Radon,E. Dorn,1898,2
 89,Actinium,A.-L. Debierne,1899,2
 63,Europium,E.-A. Demarçay,1896,2
@@ -91,29 +91,29 @@ Z,Element,Discoverer,Discovery,Group
 87,Francium,M. Perey,1939,2
 85,Astatine,"R. Corson,R. MacKenzie,E. Segrè",1940,2
 93,Neptunium,"E.M. McMillan,H. Abelson",1940,2
-94,Plutonium,"Glenn T. Seaborg,Arthur C. Wahl,W. Kennedy",1941,2
-95,Americium,"A. James,O. Morgan,A. Ghiorso",1944,2
-96,Curium,,1944,2
+94,Plutonium,"Glenn T. Seaborg, Arthur C. Wahl, W. Kennedy and E.M. McMillan",1941,2
+95,Americium,"G. T. Seaborg, A. James, O. Morgan and A. Ghiorso",1944,2
+96,Curium,"G. T. Seaborg, R. A. James and A. Ghiorso",1944,2
 61,Promethium,"S. Wu,E.G. Segrè,A. Bethe",1942,2
-97,Berkelium,G. Thompson,1949,2
-98,Californium,"K. Street,Jr.",1950,2
-99,Einsteinium,,1952,2
-100,Fermium,,1952,2
-101,Mendelevium,"G. Harvey,R. Choppin",1955,2
-102,Nobelium,"T. Sikkeland,R. Walton",1958,2
-103,Lawrencium,"E. Larsh,M. Latimer",1961,2
-104,Rutherfordium,"M. Nurmia,J. Harris,K. Eskola,P. Eskola",1968,2
-105,Dubnium,,1970,2
+97,Berkelium,"G. Thompson, A. Ghiorso and G. T. Seaborg (University of California, Berkeley)",1949,2
+98,Californium,"S. G. Thompson, K. Street,Jr., A. Ghiorso and G. T. Seaborg (University of California, Berkeley)",1950,2
+99,Einsteinium,"A. Ghiorso et al. (Argonne Laboratory, Los Alamos Laboratory and University of California, Berkeley)",1952,2
+100,Fermium,"A. Ghiorso et al. (Argonne Laboratory, Los Alamos Laboratory and University of California, Berkeley)",1952,2
+101,Mendelevium,"A. Ghiorso, G. Harvey, R. Choppin, S. G. Thompson and G. T. Seaborg",1955,2
+102,Nobelium,"A. Ghiorso, T. Sikkeland, R. Walton and G. T. Seaborg",1958,2
+103,Lawrencium,"A. Ghiorso, T. Sikkeland, E. Larsh and M. Latimer",1961,2
+104,Rutherfordium,"A. Ghiorso, M. Nurmia, J. Harris, K. Eskola and P. Eskola",1968,2
+105,Dubnium,"A. Ghiorso, M. Nurmia, K. Eskola, J. Harris and P. Eskola",1970,2
 106,Seaborgium,"J. Nitschke,J. Alonso,C. Alonso,K. Hulet,W. Lougheed",1974,2
-107,Bohrium,G.Münzenberg,1981,2
-109,Meitnerium,P. Armbruster,1982,2
-108,Hassium,,1984,2
-110,Darmstadtium,S. Hofmann,1994,2
-111,Roentgenium,,1994,2
-112,Copernicium,,1996,2
-114,Flerovium,Y. Oganessian,1999,2
-116,Livermorium,,2000,2
-118,Ununoctium,,2002,3
-113,Ununtrium,Alpha decay,2003,3
-115,Ununpentium,,2003,3
-117,Ununseptium,,2010,3
+107,Bohrium,"G. Münzenberg, P. Armbruster et al. (GSI in Darmstadt)",1981,2
+109,Meitnerium,"G. Münzenberg, P. Armbruster et al. (GSI in Darmstadt)",1982,2
+108,Hassium,"G. Münzenberg, P. Armbruster et al. (GSI in Darmstadt)",1984,2
+110,Darmstadtium,S. Hofmann et al. (GSI in Darmstadt),1994,2
+111,Roentgenium,S. Hofmann et al. (GSI in Darmstadt),1994,2
+112,Copernicium,S. Hofmann et al. (GSI in Darmstadt),1996,2
+114,Flerovium,Y.Oganessian et al. (JINR in Dubna),1999,2
+116,Livermorium,Y.Oganessian et al. (JINR in Dubna),2000,2
+118,Ununoctium,Joint Institute for Nuclear Research in Dubna and Lawrence Livermore National Laboratory ,2010,3
+113,Ununtrium,Joint Institute for Nuclear Research in Dubna and Lawrence Livermore National Laboratory ,2010,3
+115,Ununpentium,Joint Institute for Nuclear Research in Dubna and Lawrence Livermore National Laboratory ,2010,3
+117,Ununseptium,Joint Institute for Nuclear Research in Dubna and Lawrence Livermore National Laboratory ,2010,3

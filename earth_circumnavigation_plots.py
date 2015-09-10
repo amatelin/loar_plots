@@ -21,10 +21,10 @@ def make_description(entry):
     
     
 # Importing data in panda and preparing plot args
-path = "C:/Users/amate_000/Google Drive/Projects/LOAR/loar_plots/earth_circumnavigation_records.csv"
-data_df = pd.read_csv(path, sep=",")
+path = "C:/Users/amate_000/Google Drive/Projects/LOAR/loar_plots/datasets/earth_circumnavigation_records.csv"
+df = pd.read_csv(path, sep=",")
 
-categories = data_df["category"].unique()
+categories = df["category"].unique()
 traces = []
 traces_colors = ["#4183D7", "#F2784B", "#66CC99", "#264348", "#1BA39C", "#4D8FAC", "#D91E18"]
 i = 0
@@ -34,15 +34,14 @@ for category in categories:
     
     # Make description string for each data point
     descriptions = []
-    for j, row in data_df[data_df["category"]==category].iterrows():
+    for j, row in df[df["category"]==category].iterrows():
         text = make_description(row)
         descriptions.append(text)
         
-#    print data_df[data_df["category"]==category]
     # Create category trace
     trace = Scatter(
-        x=data_df[data_df["category"]==category]["start_year"],
-        y=data_df[data_df["category"]==category]["duration"],
+        x=df[df["category"]==category]["start_year"],
+        y=df[df["category"]==category]["duration"],
         mode="markers",
         name=category,
         text=descriptions,
@@ -70,7 +69,6 @@ layout = Layout(
     ), 
     yaxis=YAxis(
         title = "Duration (days)",
- #   range= [1000, 0],
     autorange="reversed"
 
     )
